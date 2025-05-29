@@ -1,0 +1,4 @@
+Changed made:
+- Spatial noun declensions (i.e. the locative, ablative, inessive, and adessive) can now change into adjectives. The singular female declension for each case, for example "auz" for the adessive, is will be word to be used, appended by an adjective suffix vowel (à, e, ì).
+
+- Differentiation between the activity of the verb and the quality or condition of a verb, both defined by the gerund, is now made. The gerund rule already in place will now apply to mean the activity of the verb, while the prefix "oun-" will apply to mean the quality of condition of a verb.
